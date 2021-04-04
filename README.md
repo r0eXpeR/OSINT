@@ -44,7 +44,7 @@
 * [2021.04.04] -  [https://0x00sec.org/](https://0x00sec.org/) - 0x00sec
 * [2021.04.04] -  [https://www.v2ex.com/](https://www.v2ex.com/?nsoad.com) - V2EX
 * [2021.04.04] -  [https://bbs.pediy.com/](https://bbs.pediy.com/?R1nG) - 看雪论坛
-* [2021.04.04] -  [https://bbs.pediy.com/](https://raidforums.com/) - RaidForums
+* [2021.04.04] -  [https://raidforums.com/](https://raidforums.com/) - RaidForums
 * [2021.04.04] -  [https://www.52pojie.cn/](https://www.52pojie.cn/) - 吾爱破解
 
 ### 知识星球
